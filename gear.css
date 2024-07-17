@@ -40,6 +40,8 @@ main section {
     margin: 50px auto;
 }
 
+/* front styles */
+
 .front {
     /* border: 2px solid red; */
     height: 500px;
@@ -91,6 +93,8 @@ main section {
     padding-top: 30px;
 }
 
+/* brands styles */
+
 .brands {
     width: 90%;
     height: 150px;
@@ -109,6 +113,8 @@ main section {
 .brand img {
     padding-left: 30px;
 }
+
+/* products styles */
 
 .products {
     width: 80%;
@@ -139,6 +145,8 @@ main section {
     text-align: right;
 }
 
+/* features styles */
+
 .features {
     width: 90%;
     height: 270px;
@@ -160,6 +168,8 @@ footer {
     background-color: #0A0826;
     color: white;
 }
+
+/* footer styles */
 
 .end {
     display: flex;
@@ -248,6 +258,7 @@ footer {
     }
 
     .products {
+        width: 80%;
         height: auto;
     }
 
